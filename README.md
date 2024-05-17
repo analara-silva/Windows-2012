@@ -6,7 +6,7 @@
 
 Ao ligar o Windows, aparecera uma tela de instalação, mude as configurações do teclado para "ABNT2" e clique na opção "avançar" para que a instalação aconteça.
 
-![alt text](1.png)
+![1](https://github.com/analara-silva/Play/assets/170100117/3ba5dd04-7f64-4832-8172-51407174c154)
 
 **Passo 2:**
 
